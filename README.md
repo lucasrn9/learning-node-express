@@ -1,7 +1,7 @@
 # Instructions
 
 1 - run the command "node server.js" to start the server \
-2 - access http://localhost:3333/users to get a list of users \
+2 - access http://localhost:3333/users to get a list of users, or http://localhost:3333/users/<userId> to get a specific user \ 
 You can use postman, insomnia or any other API platform software to make "post" and "put" requests\
 post requests should be a JSON and follow this structure: \
 {
